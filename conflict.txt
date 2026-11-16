@@ -1,1 +1,5 @@
+
 Строка из main
+
+Строка из conflict-branch
+
